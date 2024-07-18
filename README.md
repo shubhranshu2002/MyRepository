@@ -1,4 +1,4 @@
 # MyRepository
-Author-Shubhranshu Shekhar Giri
+Author-Shubhranshu 
 <br>
 Age-22
